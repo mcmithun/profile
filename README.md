@@ -1,6 +1,6 @@
 # profile
 
-## Technical ConsultantTechnical Consultant
+## Technical Consultant
 Whitespace Software Solutions · On-CallWhitespace Software Solutions · On-Call
 Feb 2022 - Present · 1 yr 1 moFeb 2022 - Present · 1 yr 1 mo
 RemoteRemote
