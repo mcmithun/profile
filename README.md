@@ -1,6 +1,6 @@
 # profile
 
-##Technical ConsultantTechnical Consultant
+## Technical ConsultantTechnical Consultant
 Whitespace Software Solutions · On-CallWhitespace Software Solutions · On-Call
 Feb 2022 - Present · 1 yr 1 moFeb 2022 - Present · 1 yr 1 mo
 RemoteRemote
@@ -13,7 +13,7 @@ Working as part time consultant for this company during continuation of my studi
 
 Skills: Visual Studio · Web Applications · Integration · GitHub · HTML · JavaScript · SQL · Jira · C++ · C# · Agile Project Management · Scrum
 
-##Senior AnalystSenior Analyst
+## Senior Analyst / Lead
 Tata Elxsi · Permanent Full-timeTata Elxsi · Permanent Full-time
 Oct 2014 - Nov 2021 · 7 yrs 2 mosOct 2014 - Nov 2021 · 7 yrs 2 mos
 Thiruvananthapuram Area, India · HybridThiruvananthapuram Area, India · Hybrid
@@ -28,7 +28,7 @@ Thiruvananthapuram Area, India · HybridThiruvananthapuram Area, India · Hybrid
 
 Skills: Google Test · QML · Embedded C++ · Software Development · Git · Jira · Unit Testing · Jenkins · Embedded Linux · Qt · Agile Methodologies
 
-##Senior Software Engineer
+## Senior Software Engineer
 Wipro Technologies · Permanent Full-timeWipro Technologies · Permanent Full-time
 Dec 2012 - Oct 2014 · 1 yr 11 mosDec 2012 - Oct 2014 · 1 yr 11 mos
 Info park, Cochin · HybridInfo park, Cochin · Hybrid
@@ -36,7 +36,7 @@ Development and Testing of communication protocols with Devices in network (Eg: 
 
 Skills: Remote Function Call (RFC) · Simple Mail Transfer Protocol (SMTP) · C++ · C (Programming Language)
 
-##Senior software Engineer (Programming C++)
+## Senior software Engineer (Programming C++)
 Perfomix, Inc. · Permanent Full-timePerfomix, Inc. · Permanent Full-time
 Jun 2010 - Nov 2012 · 2 yrs 6 mosJun 2010 - Nov 2012 · 2 yrs 6 mos
 A Main part in Web Service Implementation for PRODML(Oil and Gas , Production Data Xml) standard (introduced by energetics). Using gSoap (Soap with Object communication related to PRODML Schemas), in Linux with C++ as Development language with Oracle as back end. Big data manipulation and providing Services with different objects in PRODML.
@@ -52,7 +52,7 @@ A Main part in Web Service Implementation for PRODML(Oil and Gas , Production Da
 
 Skills: Oracle Database · Qt · gSOAP · C++ · Linux
 
-##Software engineer
+## Software engineer
 Softnotions · Permanent Full-timeSoftnotions · Permanent Full-time
 Aug 2008 - Apr 2010 · 1 yr 9 mosAug 2008 - Apr 2010 · 1 yr 9 mos
 Technopark, TrivandrumTechnopark, Trivandrum
